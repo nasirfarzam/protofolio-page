@@ -1,0 +1,110 @@
+
+
+/*https://codepen.io/Nasirsharifi/pen/YgZMbr*/
+   div#about {
+      padding: 5%;
+      height: 100%;
+      background-color: #F0FFF0;
+      
+  
+  }
+
+
+   .bg-grey{
+   	background-color: #f6f6f6;
+   }
+   .logo-small {
+      color: #f4511e;
+      font-size: 50px;
+  }
+  
+  
+   header#header{
+   	background-color: #f6f6f6;
+   }
+
+   .navbar {
+      margin-bottom: 0;
+      padding-bottom: 15px;
+      background-color: #f6f6f6;
+      z-index: 9999;
+      border: 0;
+      font-size: 12px !important;
+      line-height: 1.42857143 !important;
+      letter-spacing: 4px;
+      border-radius: 0;
+  }
+  #submit{
+  	background-color: #ffbb00;
+  	padding: 5px;
+  	width: 30%;
+  	border-radius: 2px;
+  	margin: 10px;
+  }
+  div#audio{
+  	display: grid;
+  	justify-content: center;
+  }
+  #maincontent{
+  	padding: 20px;
+  	margin-bottom: 35px;
+
+  }
+a{
+  text-decoration: none;
+
+}
+
+  #submit:hover {
+  	box-shadow: 5px 0px 40px rgba(255,200,100, .2);
+
+  }
+  #showbtn{
+    background-color: #F0FFF0;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+     border: 1px double green;
+  }
+  #showbtn:hover{
+    width: 160px;
+    height: 45px;
+    border: 2px double green;
+  }
+
+  div#letswork{ 
+    display: grid;
+    justify-content: center;
+      height: 600px;
+      background-color:  #CCFFCC;
+  }
+  button#btnfb{
+    width: 150px;
+    height: 150px;
+    margin:5px;
+    border: 2px solid green;
+    border-radius: 50%;
+  }
+ button#btnfb:hover{
+    width: 153px;
+    height: 153px;
+    margin:5px;
+    border: 2px solid green;
+    border-radius: 50%;
+  }
+
+
+    footer{
+    	display: inline-grid;
+    	grid-template-rows: 100px 100px;
+    	
+  }
+ 
+  /*}*/
+
+  /* @media screen and (max-width: 768px) {*/
+  /*  .col-sm-4 {*/
+  /*    text-align: center;*/
+  /*    margin: 25px 0;*/
+  /*  }*/
+  /*  */
